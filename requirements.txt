@@ -1,0 +1,8 @@
+pandas
+openai
+python-dotenv
+qianfan
+anthropic
+mistralai
+google-generativeai
+seaborn

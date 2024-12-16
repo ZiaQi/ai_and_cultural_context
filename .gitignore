@@ -1,0 +1,19 @@
+# Environment variables
+.env
+
+# ?
+.DS_Store
+Frontier_results_datafiles/.DS_Store
+
+# Custom folders
+archive/
+sandbox/
+
+# Virtual Environment
+myenv/
+
+# PDF files
+*.pdf
+
+# Tableau files
+*.twbx
