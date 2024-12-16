@@ -1,6 +1,6 @@
 # LLM Performance Analysis on Chinese Social Work Professional Standards
 
-This project evaluates the performance of Large Language Models (LLMs) on the Chinese Social Work Licensing Examination through a combination of quantitative and qualitative analyses. <br/>
+This study evaluates the performance of Large Language Models (LLMs) on the Chinese Social Work Licensing Examination through a combination of quantitative and qualitative analyses. <br/>
 arXiv:
 
 ## Features
